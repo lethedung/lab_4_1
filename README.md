@@ -481,7 +481,7 @@ class TodosScreen extends StatelessWidget {
 }
 
 class DetailScreen extends StatelessWidget {
-  // Declare a field that holds the Todo.
+ 
   final Todo todo;
 
   // In the constructor, require a Todo.
